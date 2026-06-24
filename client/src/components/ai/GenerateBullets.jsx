@@ -2,7 +2,10 @@ import React from 'react'
 
 const GenerateBullets = () => {
   return (
-    <div>GenerateBullets</div>
+    <div>
+hey
+      
+    </div>
   )
 }
 
